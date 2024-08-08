@@ -258,5 +258,29 @@
 			<type>String</type>
 			<isOverride>false</isOverride>
 			<useLookupValue>false</useLookupValue>
+		</globalVariable><globalVariable>
+			<name>/Services/MC-sampleApp/MCI/test-esb-in/flowCode</name>
+			<value>rexel.sampleApp.test</value>
+			<deploymentSettable>false</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>String</type>
+			<isOverride>false</isOverride>
+			<useLookupValue>false</useLookupValue>
+		</globalVariable><globalVariable>
+			<name>/Services/MC-sampleApp/MCI/test-esb-in/taskCode</name>
+			<value>MCS-REST-38</value>
+			<deploymentSettable>false</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>String</type>
+			<isOverride>false</isOverride>
+			<useLookupValue>false</useLookupValue>
+		</globalVariable><globalVariable>
+			<name>/Services/MC-sampleApp/MCI/test-esb-in/serviceName</name>
+			<value>sampleApp.test.esb-in</value>
+			<deploymentSettable>false</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>String</type>
+			<isOverride>false</isOverride>
+			<useLookupValue>false</useLookupValue>
 		</globalVariable></globalVariables>
 </repository>
