@@ -20,7 +20,7 @@
 
 	<dependencies>
             <dependency>
-                <groupId>com.fastcube.tibco.Its.sample.sampleApp</groupId>
+                <groupId>com.fastcube.tibco.Infra.sample.sampleApp</groupId>
                 <artifactId>bw.mc-sampleApp.application</artifactId>
                 <version>${project.version}</version>
                 <type>ear</type>
